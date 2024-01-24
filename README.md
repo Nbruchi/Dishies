@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="#">
-      <img src="https://github.com/adrianhajdin/project_nextjs13_flexibble/assets/151519281/e4d6a34f-31a8-4370-a3df-d59e0463a18e" alt="Project Banner">
+       <img src="https://github.com/Nbruchi/Dishies/blob/main/public/dishies-banner.png" alt="Project Banner"/>
     </a>
   <br />
 
