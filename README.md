@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logoColor=white&logo=javascript&color=ecec08" alt="javascript" />
     <img src="https://img.shields.io/badge/-Material_UI-black?style=for-the-badge&logoColor=white&logo=mui&color=06B6D4" alt="mui" />
   </div>
-  <h3 align="center">Dishees Ordering and Restaurants</h3>
+  <h3 align="center">Dishies Ordering and Restaurants</h3>
 </div>
 
 Dishies is a fast food delivery and restaurant with stunning food categories and drinks of all kinds
