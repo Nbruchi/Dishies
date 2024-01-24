@@ -30,7 +30,7 @@ const RestoServices = () => {
                      direction="column"
                      spacing={1}
                      alignItems="center"
-                     p={4}
+                     p={2}
                      height="15rem"
                   >
                      <Box

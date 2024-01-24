@@ -10,8 +10,6 @@ import {
       Stack,
 } from "@mui/material";
 import { Link } from "react-router-dom";
-import { authActions } from "../../app/slices/authSlice";
-import { useDispatch } from "react-redux";
 
 const user_regex = /^[A-z][A-z0-9-_]{3,23}$/;
 const pwd_regex = /^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[!@#$%]).{8,24}$/;
@@ -39,7 +37,6 @@ const userRegister = () => {
 
       const [success, setSuccess] = useState(false);
       const [errMsg, setErrMsg] = useState("");
-      const dispatch = useDispatch();
 
       useEffect(() => {
             userRef.current.focus();
@@ -76,7 +73,6 @@ const userRegister = () => {
                   return;
             }
             setSuccess(true);
-            dispatch(authActions.login());
       };
 
       return (

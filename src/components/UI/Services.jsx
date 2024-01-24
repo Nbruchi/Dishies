@@ -20,7 +20,7 @@ const Services = () => {
                   key={service.id}
                   elevation={2}
                   sx={{
-                     width: "14rem",
+                     width: "16rem",
                      height: "18.5rem",
                      display: "flex",
                      flexDirection: "column",

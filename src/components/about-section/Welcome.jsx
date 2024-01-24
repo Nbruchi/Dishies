@@ -47,7 +47,7 @@ const OurChefs = () => {
               src={aboutImg}
               alt="about image"
               style={{
-                width: "100%",
+                width: "80%",
                 borderRadius: "0.5rem",
               }}
             />
