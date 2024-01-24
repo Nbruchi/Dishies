@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="#">
-    ![Project Banner](https://github.com/Nbruchi/Dishies/blob/main/public/dishies-banner.png)
+       <img src="https://github.com/Nbruchi/Dishies/blob/main/public/dishies-banner.png" alt="Project Banner"/>
     </a>
   <br />
 
